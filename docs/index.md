@@ -1,4 +1,4 @@
-# Index
+# Articles
 
-[Prompt Engineering](docs/prompt-engineering.md)
+[Prompt Engineering](/prompt-engineering.md)
 
