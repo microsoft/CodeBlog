@@ -1,4 +1,3 @@
-# Articles
+# Blog Title
 
-[Prompt Engineering](/prompt-engineering.md)
-
+Have you seen AI models that can predict the next word in a sentence?
